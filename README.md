@@ -9,3 +9,4 @@ Breakout groups during our weekly JS study session:
 - Overview of software/web development careers
 - Angular
 - MVC frameworks
+- DevOps

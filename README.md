@@ -10,3 +10,4 @@ Breakout groups during our weekly JS study session:
 - Angular
 - MVC frameworks
 - DevOps
+- MEAN stack

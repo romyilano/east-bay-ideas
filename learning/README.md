@@ -19,3 +19,4 @@ SudoRoom is a great hackerspace located in the Omni Commons.
 # General WWCode
 
 * Women Who Code has some great learning resources [github](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md)
+* Women Who Code - iOS Resources [github wiki](https://github.com/WomenWhoCode/MobileStudyGroup/wiki/iOS-Resources)

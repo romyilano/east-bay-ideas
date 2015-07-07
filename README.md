@@ -21,4 +21,4 @@ Our collective ideas about what the East Bay chapter should do in 2015.
 - Overview of software/web development careers: DevOps, QA, Development, More
 - Game Development
 
-
+![Women who code](images/wwcode-eastbay_medium.png)

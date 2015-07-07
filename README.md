@@ -3,8 +3,6 @@
 ![Women who code](images/WomenWhoCode.jpg)
 
 
-
-
 # Sections
 
 - [Group Projects](projects/README.md)

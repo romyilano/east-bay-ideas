@@ -7,6 +7,7 @@
 
 - [Group Projects](projects/README.md)
 - [Learning](learning/README.md)
+- [Members](members.md) A list of some of our members, what kind of programming they're into, and links to their resumes/github accounts!
 - [Misc](misc/README.md) did you know that Oakland is Javascript city? Did you know that SimCity was created in Emeryville?
 
 ## Brainstorming
